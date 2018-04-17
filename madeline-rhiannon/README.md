@@ -17,7 +17,7 @@ VS Code, HTML5, CSS3, JS, jQuery, Ajax, JSON, Handlebars.
 
 4-17-2018 9:00am - Application now has a fully-functional express server, with GET and POST routes for the book resource.
 
-4-17-2018 11:00-11:55 - Got rawData into localStorage. Filters populating in all drop-down cases. Filled in answers for comments. And completed README.md ;)
+4-17-2018 11:00-11:55 - Got rawData into localStorage. Filters populating in all drop-down cases. Filled in answers for comments. And completed PR.md & README.md ;)
 
 ## Credits and Collaborations
 --> Megan Flood helped us ALOT in understanding what we were doing wrong with the if/else statement we needed to complete at the bottom of the page
